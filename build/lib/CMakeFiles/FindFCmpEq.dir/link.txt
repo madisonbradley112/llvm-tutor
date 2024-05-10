@@ -1,0 +1,1 @@
+/opt/software/GCCcore/12.2.0/bin/c++ -fPIC  -Wall  -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -shared -Wl,-soname,libFindFCmpEq.so -o libFindFCmpEq.so CMakeFiles/FindFCmpEq.dir/FindFCmpEq.cpp.o   -L/home/madison.bradley/llvm/llvm-17/lib 

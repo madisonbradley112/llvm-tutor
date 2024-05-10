@@ -1,0 +1,1 @@
+/opt/software/GCCcore/12.2.0/bin/c++ -fPIC  -fno-rtti -shared -Wl,-soname,libHelloWorld.so -o libHelloWorld.so CMakeFiles/HelloWorld.dir/HelloWorld.cpp.o 
